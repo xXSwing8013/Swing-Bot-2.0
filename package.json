@@ -1,0 +1,14 @@
+{
+  "name": "swing-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xXSwing",
+  "license": "ISC",
+  "description": "Made by xXSwing#8013™",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
